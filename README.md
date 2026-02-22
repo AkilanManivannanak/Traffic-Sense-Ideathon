@@ -72,8 +72,7 @@ The system must operate under real-world constraints such as:
 
 ## 📂 Repository Contents
 
-- `TrafficSense_Ideathon_2022_AKAKN.pptx` — Main pitch deck / presentation  
-
+- `[TrafficSense_Ideathon_2022_AKAKN.pptx](https://github.com/AkilanManivannanak/Traffic-Sense-Ideathon/blob/main/IDEATHON%202022%20_AKAKN.pptx) 
 ---
 
 ## 🏫 Event
